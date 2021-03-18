@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f2f16d1-ff6c-4100-a6fd-930073715d36" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12-MongoDB-复制集.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="151" column="21" lean-forward="true" selection-start-line="151" selection-start-column="21" selection-end-line="151" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/13-MongoDB-分片.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="249" selection-start-line="249" selection-end-line="249" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#498#0" />
+                <element signature="e#499#758#0" />
+                <element signature="e#759#1385#0" />
+                <element signature="e#1386#1942#0" />
+                <element signature="e#1943#2253#0" />
+                <element signature="e#2254#2510#0" />
+                <element signature="e#2511#2528#0" />
+                <element signature="e#2529#3729#0" />
+                <element signature="e#3721#3732#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>student</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>person</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/03-MongoDB使用.html" />
+        <option value="$PROJECT_DIR$/04-MongoDB.html" />
+        <option value="$PROJECT_DIR$/01-MongoDB开篇.html" />
+        <option value="$PROJECT_DIR$/02-MongoDB安装.html" />
+        <option value="$PROJECT_DIR$/03-快速上手MongoDB.html" />
+        <option value="$PROJECT_DIR$/04-MongoDB-创建文档.html" />
+        <option value="$PROJECT_DIR$/05-MongoDB读取文档.html" />
+        <option value="$PROJECT_DIR$/06-MongoDB更新文档.html" />
+        <option value="$PROJECT_DIR$/07-MongoDB删除文档.html" />
+        <option value="$PROJECT_DIR$/08-MongoDB聚合.html" />
+        <option value="$PROJECT_DIR$/09-MongoDB索引.html" />
+        <option value="$PROJECT_DIR$/10-MongoDB数据模型.html" />
+        <option value="$PROJECT_DIR$/11-mongoose/01-mongoose开篇.html" />
+        <option value="$PROJECT_DIR$/11-mongoose/01-Mongoose开篇.js" />
+        <option value="$PROJECT_DIR$/11-mongoose/02-Mongoose增删改查.js" />
+        <option value="$PROJECT_DIR$/11-mongoose/03-MongoDB-事务.js" />
+        <option value="F:/jQuery/jQuery/jQuery基础/test.html" />
+        <option value="$PROJECT_DIR$/12-MongoDB-复制集.html" />
+        <option value="$PROJECT_DIR$/13-MongoDB-分片.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MongoDB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MongoDB" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.10.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.03-MongoDB-事务.js">
+    <configuration name="01-Mongoose开篇.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="01-Mongoose开篇.js" working-dir="$PROJECT_DIR$/11-mongoose">
+      <method v="2" />
+    </configuration>
+    <configuration name="02-Mongoose增删改查.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="02-Mongoose增删改查.js" working-dir="$PROJECT_DIR$/11-mongoose">
+      <method v="2" />
+    </configuration>
+    <configuration name="03-MongoDB-事务.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="03-MongoDB-事务.js" working-dir="$PROJECT_DIR$/11-mongoose">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.03-MongoDB-事务.js" />
+        <item itemvalue="Node.js.02-Mongoose增删改查.js" />
+        <item itemvalue="Node.js.01-Mongoose开篇.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f2f16d1-ff6c-4100-a6fd-930073715d36" name="Default Changelist" comment="" />
+      <created>1585817865818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585817865818</updated>
+      <workItem from="1585817867155" duration="12413000" />
+      <workItem from="1585881420956" duration="42094000" />
+      <workItem from="1586310465722" duration="41429000" />
+      <workItem from="1586482588231" duration="22782000" />
+      <workItem from="1586745490338" duration="7608000" />
+      <workItem from="1586836829084" duration="80956000" />
+      <workItem from="1587446408170" duration="45000" />
+      <workItem from="1587624291292" duration="6106000" />
+      <workItem from="1587635430192" duration="4459000" />
+      <workItem from="1587697633635" duration="1427000" />
+      <workItem from="1587892254544" duration="10436000" />
+      <workItem from="1587963053566" duration="3101000" />
+      <workItem from="1587967980331" duration="34605000" />
+      <workItem from="1588232568254" duration="14368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="281829000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11696523" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/11-mongoose/node_modules/mongoose/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="380" selection-start-line="380" selection-end-line="380" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-mongoose/01-Mongoose开篇.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-mongoose/02-Mongoose增删改查.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3735">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="e#522#660#0" />
+            <element signature="e#1409#1526#0" />
+            <element signature="e#1657#1788#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-mongoose/03-MongoDB-事务.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/jQuery/jQuery/jQuery基础/test.html" />
+    <entry file="file://$PROJECT_DIR$/10-MongoDB数据模型.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="206" column="3" lean-forward="true" selection-start-line="206" selection-start-column="3" selection-end-line="206" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-mongoose/01-mongoose开篇.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#587#2" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-MongoDB删除文档.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-MongoDB更新文档.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="295" column="4" selection-start-line="295" selection-start-column="4" selection-end-line="295" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#254#0" />
+            <element signature="e#255#1202#0" />
+            <element signature="e#1203#2296#0" />
+            <element signature="e#2297#2797#0" />
+            <element signature="e#2798#3718#0" />
+            <element signature="e#3719#4241#0" />
+            <element signature="e#4242#5194#0" />
+            <element signature="e#5196#6344#0" />
+            <element signature="e#6345#6433#0" />
+            <element signature="e#6434#6653#0" />
+            <element signature="e#6654#7419#0" />
+            <element signature="e#7420#8206#0" />
+            <element signature="e#8207#8845#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-MongoDB读取文档.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="290" column="4" selection-start-line="290" selection-start-column="4" selection-end-line="290" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#1294#0" />
+            <element signature="e#1295#1925#0" />
+            <element signature="e#1926#2357#0" />
+            <element signature="e#2358#3499#0" />
+            <element signature="e#3500#4153#0" />
+            <element signature="e#4154#4939#0" />
+            <element signature="e#4940#5370#0" />
+            <element signature="e#5372#6036#0" />
+            <element signature="e#6037#6508#0" />
+            <element signature="e#6509#6922#0" />
+            <element signature="e#6923#7486#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-MongoDB-创建文档.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="e#1612#2489#0" />
+            <element signature="e#2490#3230#0" />
+            <element signature="e#3231#3538#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-快速上手MongoDB.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-MongoDB安装.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-MongoDB开篇.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-MongoDB聚合.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="180" column="5" lean-forward="true" selection-start-line="180" selection-start-column="5" selection-end-line="180" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-MongoDB-复制集.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="151" column="21" lean-forward="true" selection-start-line="151" selection-start-column="21" selection-end-line="151" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-MongoDB索引.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="163" selection-start-line="163" selection-end-line="163" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-MongoDB-分片.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="249" selection-start-line="249" selection-end-line="249" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#498#0" />
+            <element signature="e#499#758#0" />
+            <element signature="e#759#1385#0" />
+            <element signature="e#1386#1942#0" />
+            <element signature="e#1943#2253#0" />
+            <element signature="e#2254#2510#0" />
+            <element signature="e#2511#2528#0" />
+            <element signature="e#2529#3729#0" />
+            <element signature="e#3721#3732#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
